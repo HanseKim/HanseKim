@@ -1,4 +1,4 @@
-# Hi 👋 Welcome to My GitHub!
+# 김세한 | Developer 🚀
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HanseKim&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehankim)](https://solved.ac/sehankim/)
@@ -7,9 +7,10 @@
 풀스택 개발을 지향하는 개발자입니다. React Native 모바일 앱부터 Node.js 백엔드까지, 
 사용자가 실제로 사용할 수 있는 완성된 서비스를 만드는 것을 좋아합니다.
 
+
 **현재 진행 중**
 - 🎓 **카카오테크캠퍼스 3기** - 프론트엔드 트랙
-- ⚽ **MoiGO** - 스포츠 관람 모임 플랫폼 (팀장/프론트엔드)
+- ⚽ **MoiGO** - 스포츠 관람 모임 플랫폼 (기획/프론트엔드)
 
 ## 💼 주요 프로젝트
 
@@ -17,11 +18,11 @@
 > **"3일 걸릴 모임 준비, 단 3분만에"**
 
 **기간**: 2024.08 ~ 진행중  
-**역할**: 팀장 / 프론트엔드 개발  
-**기술스택**: React Native, Node.js, Express, Socket.IO
+**역할**: 기획 / 프론트엔드 개발  
+**기술스택**: React Native Expo, Node.js, Express
 
 - 스포츠 관람을 위한 **올인원 플랫폼** (모임 생성 → 장소 예약 → 결제 → 채팅)
-- **에스크로 결제 시스템**으로 노쇼 방지 및 안전한 거래
+- **에스크로 결제 시스템**으로 노쇼 방지 및 안전한 거래 (사업자 등록증 필요)
 - **실시간 채팅** 및 **위치 기반** 매장 검색 기능
 - 부산 지역 상권 활성화를 위한 **지역 상생 모델**
 
@@ -30,7 +31,7 @@
 
 **기간**: 2025.01.13 ~ 2025.02.24  
 **역할**: 풀스택 개발 (2인 팀)  
-**기술스택**: React Native (Expo), Node.js, Express, MySQL
+**기술스택**: React Native, Node.js, Express, MySQL
 
 - **감정 이모지** 기반 월별 감정 분석 기능
 - 커플 연결, D-Day 계산, 달력 기반 일기 관리
@@ -39,7 +40,7 @@
 - 핑크톤의 감성적 UI/UX (Figma 디자인 직접 구현)
 
 ### 🎯 OPS-MVP - 학교 성과관리시스템
-**기간**: 2024  
+**기간**: 2025 여름방학  
 **역할**: 프론트엔드 개발  
 **기술스택**: React, Zustand, React-Query
 
@@ -62,14 +63,11 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Tools & Others
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🎯 Development Philosophy
 - **사용자 중심**: 실제로 사용할 수 있는 완성된 서비스 개발
@@ -81,9 +79,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanseKim&theme=dark)
 
 ## 📫 Contact
-- 📧 Email: [Your Email]
+- 📧 Email: [kimbird2002@naver.com]
 - 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Portfolio]
+- 🌐 Portfolio: [[hansekim.github.io](https://hansekim.github.io/)]
 
----
-*"코드로 세상을 더 편리하게 만들어가는 개발자"* ✨
