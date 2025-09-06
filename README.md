@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehankim)](https://solved.ac/sehankim/)
 
 ## 🚀 About Me
-풀스택 개발을 지향하는 개발자입니다. React Native 모바일 앱부터 Node.js 백엔드까지, 
+풀스택 개발을 지향하는 개발자입니다. React 웹과 React Native 모바일 앱부터 Node.js 백엔드까지, 
 사용자가 실제로 사용할 수 있는 완성된 서비스를 만드는 것을 좋아합니다.
 
 
