@@ -15,6 +15,8 @@ React 웹과 React Native 모바일 앱을 기반으로, 사용자가 실제로 
 - 기존 앱 화면을 **React WebView**로 재구현해, A/B 테스트와 UI 실험을 빠르게 할 수 있는 레이어 구축
 - 리스트·피드·프로필·가게 상세·리뷰 상세 등 **데이터가 자주 바뀌는 화면을 WebView로 분리**
 - Flutter–WebView 브릿지(AppBridge)와 React Query 캐시 전략 설계 및 문서화
+- AppStore : [reALview PNU](https://apps.apple.com/kr/app/realview-pnu/id6738042359)
+
 
 ### 🚌 이음 - 운행/예약 관리 관리자 웹 (디라이브 주식회사)
 **기간**: 2025.09 ~ 2025.12  
@@ -40,6 +42,7 @@ React 웹과 React Native 모바일 앱을 기반으로, 사용자가 실제로 
 - 학교 성과관리를 위한 **관리자 페이지** 개발
 - **Zustand**와 **React-Query** 첫 도입 프로젝트
 - 상태 관리 및 서버 상태 동기화 학습
+- URL : [SW성과관리시스템](https://opus.pusan.ac.kr/)
 
 ### 🏟️ MoiGO - 스포츠 관람 모임 플랫폼
 > **"3일 걸릴 모임 준비, 단 3분만에"**
